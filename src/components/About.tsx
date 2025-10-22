@@ -30,10 +30,10 @@ export function About() {
           transition={{ duration: 0.6 }}
           className="text-center mb-16"
         >
-          <h2 className="text-white mb-6 text-4xl md:text-5xl">About beyondx</h2>
+          <h2 className="text-white mb-6 text-4xl md:text-5xl">About ByondX</h2>
           <p className="text-purple-200/80 max-w-3xl mx-auto text-lg md:text-xl">
-            We're reimagining IT. From SmartHome systems to enterprise cloud security — 
-            beyondx helps you live and work smarter.
+            We're reimaging technologies. From SmartBuildings to enterprise cloud security infrastructures — 
+            ByondX helps you live and work smarter and better.
           </p>
         </motion.div>
 

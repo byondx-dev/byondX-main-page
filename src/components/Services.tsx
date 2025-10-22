@@ -6,7 +6,7 @@ export function Services() {
     {
       icon: Home,
       title: "SmartHomes & SmartBuilding",
-      description: "EcoHome, AI Home, SecureHome and simply better home.",
+      description: "EcoHome, AI Home, SecureHome and simply smarter future.",
     },
     {
       icon: Cloud,
@@ -16,12 +16,12 @@ export function Services() {
     {
       icon: Lock,
       title: "CyberSecurity",
-      description: "PenTesting, RedTeam, BlueTeam, Awareness Training.",
+      description: "RedTeam, BlueTeam, Awareness Training and more.",
     },
     {
       icon: Briefcase,
-      title: "Business IoT",
-      description: "Small Business Setup, POS, M365, Modern Workplace.",
+      title: "Business IT",
+      description: "Business Setups, POS, M365, Modern Workplace, Datacenter and more.",
     },
   ];
 

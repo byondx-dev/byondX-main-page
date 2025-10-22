@@ -26,7 +26,7 @@ export function Barakah() {
           viewport={{ once: true }}
           transition={{ duration: 0.6 }}
         >
-          <h2 className="text-white mb-6 text-4xl md:text-5xl">Technology with Barakah</h2>
+          <h2 className="text-white mb-6 text-4xl md:text-5xl">Technology with ByondX</h2>
           <p className="text-purple-200/80 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
             We build with purpose.
             Every solution is crafted with intention, integrity and a commitment to meaningful impact.
