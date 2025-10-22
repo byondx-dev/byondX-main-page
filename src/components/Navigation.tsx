@@ -7,7 +7,7 @@ export function Navigation() {
         {/* Logo */}
         <div className="flex items-center space-x-2">
           <span className="text-white tracking-wider">
-            beyond<span className="text-purple-400 drop-shadow-[0_0_10px_rgba(168,85,247,0.8)]">x</span>
+            Byond<span className="text-purple-400 drop-shadow-[0_0_10px_rgba(168,85,247,0.8)]">X</span>
           </span>
         </div>
 
