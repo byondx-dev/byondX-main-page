@@ -45,7 +45,7 @@ export function Hero() {
           transition={{ duration: 0.8 }}
           className="text-white mb-6 text-5xl md:text-7xl tracking-tight"
         >
-          Beyond Technology.<br />Beyond Limits.
+          Byond XTechnology.<br />Byond XLimits.
         </motion.h1>
 
         <motion.p
@@ -54,7 +54,7 @@ export function Hero() {
           transition={{ duration: 0.8, delay: 0.2 }}
           className="text-purple-200 mb-12 text-lg md:text-2xl max-w-3xl mx-auto"
         >
-          SmartHomes, AI, and Cloud — intelligently connected with purpose.
+          Technologies of the future — intelligently connected with purpose.
         </motion.p>
 
         <motion.div

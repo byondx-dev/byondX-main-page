@@ -28,8 +28,8 @@ export function Barakah() {
         >
           <h2 className="text-white mb-6 text-4xl md:text-5xl">Technology with Barakah</h2>
           <p className="text-purple-200/80 text-lg md:text-xl max-w-2xl mx-auto leading-relaxed">
-            We build with purpose — empowering people, communities, and faith-based innovation.
-            Every solution is crafted with intention, integrity, and a commitment to meaningful impact.
+            We build with purpose.
+            Every solution is crafted with intention, integrity and a commitment to meaningful impact.
           </p>
         </motion.div>
 

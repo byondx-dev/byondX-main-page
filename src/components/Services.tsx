@@ -5,13 +5,13 @@ export function Services() {
   const services = [
     {
       icon: Home,
-      title: "SmartHome & IoT",
-      description: "EcoHome, AI Home, SecureHome – from 2K to 50K €.",
+      title: "SmartHomes & SmartBuilding",
+      description: "EcoHome, AI Home, SecureHome and simply better home.",
     },
     {
       icon: Cloud,
       title: "Cloud & AI",
-      description: "DevOps, CloudSecOps, AI Agents, and Automation.",
+      description: "DevOps, CloudSecOps, AI Agents and Automation.",
     },
     {
       icon: Lock,
@@ -20,7 +20,7 @@ export function Services() {
     },
     {
       icon: Briefcase,
-      title: "Business IT Support",
+      title: "Business IoT",
       description: "Small Business Setup, POS, M365, Modern Workplace.",
     },
   ];
