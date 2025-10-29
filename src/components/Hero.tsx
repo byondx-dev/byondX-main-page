@@ -45,7 +45,7 @@ export function Hero() {
           transition={{ duration: 0.8 }}
           className="text-white mb-6 text-5xl md:text-7xl tracking-tight"
         >
-          Byond XTechnology.<br />Byond XLimits.
+          Byond XTechnologies.<br />Byond XLimits.
         </motion.h1>
 
         <motion.p

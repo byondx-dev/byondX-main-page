@@ -119,7 +119,7 @@ export function Contact() {
           </a>
         </div>
         <p className="text-purple-300/50">
-          © 2025 beyondx. Beyond Technology.
+          © 2025 ByondX. Byond X Technologies.
         </p>
       </motion.footer>
     </section>
